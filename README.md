@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arun-avilary
 - 👀 I’m interested in 
-Manual and Automation testing
+Manual and Automation testing,
 Open source condtributions
 - 🌱 I’m currently learning:
 Selenium
